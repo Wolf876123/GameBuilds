@@ -1,0 +1,13 @@
+{
+"companyName": "L A Brink",
+"productName": "Goliath",
+"dataUrl": "GoliathPrototypeWebGL.data.unityweb",
+"asmCodeUrl": "GoliathPrototypeWebGL.asm.code.unityweb",
+"asmMemoryUrl": "GoliathPrototypeWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "GoliathPrototypeWebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
